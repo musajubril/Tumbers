@@ -9,7 +9,7 @@ import SingleFact from "../components/SingleFact";
 import DoubleFact from "../components/DoubleFact";
 import { useQuery } from "react-query";
 import axios from "axios";
-const API_URL = "https://numbersapi.com";
+const API_URL = "http://numbersapi.com";
 // const query = (queryKey: any, apiUrl: any) => {
 //   const { data, isLoading, ...rest } = useQuery(
 //     queryKey,
