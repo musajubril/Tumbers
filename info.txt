@@ -1,0 +1,4 @@
+API_URL = http://numbersapi.com/
+Numbers Api = http://numbersapi.com/number/type
+multiple request http://numbersapi.com/number..number/type
+round off a not found number = http://numbersapi.com/number?notfound=floor
